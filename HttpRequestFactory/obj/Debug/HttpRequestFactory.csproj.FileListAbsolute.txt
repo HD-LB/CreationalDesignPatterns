@@ -1,0 +1,7 @@
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\CreationalPatterns\HttpRequestFactory\bin\Debug\HttpRequestFactory.exe.config
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\CreationalPatterns\HttpRequestFactory\bin\Debug\HttpRequestFactory.exe
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\CreationalPatterns\HttpRequestFactory\bin\Debug\HttpRequestFactory.pdb
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\CreationalPatterns\HttpRequestFactory\obj\Debug\HttpRequestFactory.csprojAssemblyReference.cache
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\CreationalPatterns\HttpRequestFactory\obj\Debug\HttpRequestFactory.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\CreationalPatterns\HttpRequestFactory\obj\Debug\HttpRequestFactory.exe
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\CreationalPatterns\HttpRequestFactory\obj\Debug\HttpRequestFactory.pdb
